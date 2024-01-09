@@ -280,7 +280,6 @@ oin-poin penting dari fungsi akhir():
 
 -Saran: Pertimbangkan untuk memindahkan pemanggilan daftar_barang() ke bagian awal program atau sebelum fungsi akhir(). Ini akan memastikan bahwa fungsi daftar_barang() sudah didefinisikan sebelum digunakan.
 ```
-DOKUMENTASI PROJECT UAS https://youtube.com/@MichaelKardono?si=adYAf2PufDKgXy4E
 
 
 ### Hasil Program 
