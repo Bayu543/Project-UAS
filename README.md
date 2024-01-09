@@ -283,4 +283,4 @@ oin-poin penting dari fungsi akhir():
 
 
 ### Hasil Program 
-<img src="output hasil / gambar1.png">
+<img src="output hasil/gambar1.png">
