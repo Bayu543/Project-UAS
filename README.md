@@ -7,7 +7,7 @@
 | **NIM** | 312310492 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
-| **link video penjelasan** |
+| **link video penjelasan** | https://youtu.be/kV8SlzUOyTE?si=sEJyibQupcsCmx3p |
 ## PROJECT UAS
 ## CODINGAN
 ``` Py
